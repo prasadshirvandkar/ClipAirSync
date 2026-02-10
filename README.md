@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # ClippSync
 
-ClippSync is a privacy-focused cross-platform clipboard synchronization tool designed to seamlessly sync your clipboard usage across your devices within your local network.
+ClippSync is a privacy-focused cross-platform clipboard synchronization tool that seamlessly syncs your clipboard usage across your devices on your local network.
 
 ## Key Features
 
@@ -12,8 +11,4 @@ ClippSync is a privacy-focused cross-platform clipboard synchronization tool des
 
 ## How It Works
 
-ClippSync uses purely local network protocols to discover and communicate with trusted devices on the same WiFi. This ensures that your sensitive clipboard history remains private and secure, accessible only to you.
-=======
-# ClipAirSync
-Privacy-focused cross-platform clipboard synchronization tool over your local network.
->>>>>>> 3ee617ead8bbe6e6c7baf406bb3fdb814aa73b6c
+ClippSync uses only local network protocols to discover and communicate with trusted devices on the same Wi-Fi network. This ensures that your sensitive clipboard history remains private and secure, accessible only to you.
